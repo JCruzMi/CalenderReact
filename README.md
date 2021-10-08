@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![](https://media.discordapp.net/attachments/804511906735718421/896117467712196678/unknown.png?width=494&height=656)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
